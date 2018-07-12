@@ -1,0 +1,4 @@
+{
+  "hdfs.core.site" : "core-site.xml",
+  "hdfs.hdfs.site" : "hdfs-site.xml"
+}
